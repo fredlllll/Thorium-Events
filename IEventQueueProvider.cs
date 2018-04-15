@@ -1,4 +1,4 @@
-﻿namespace Thorium_Events
+﻿namespace Thorium.Events
 {
     public interface IEventQueueProvider
     {
